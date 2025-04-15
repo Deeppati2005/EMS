@@ -191,4 +191,9 @@ The application uses **PostgreSQL**. The schema is automatically generated via J
 
 ---
 
+## 📷 Screenshots
 
+### 🏠 Landing Page
+![Landing Page](screenshots/landing.png)
+
+---
